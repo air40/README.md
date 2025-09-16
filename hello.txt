@@ -5,3 +5,4 @@ Who is the creator of the memes art rolls? I have been working for a long time a
 The ambassador role is my pappu.
 Added initial project description.
 Updated project goal statement.
+Fixed small grammar issue in README.
