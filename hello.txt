@@ -6,3 +6,4 @@ The ambassador role is my pappu.
 Added initial project description.
 Updated project goal statement.
 Fixed small grammar issue in README.
+Added note about Endless Protocol.
