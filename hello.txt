@@ -8,3 +8,4 @@ Updated project goal statement.
 Fixed small grammar issue in README.
 Added note about Endless Protocol.
 Updated contribution guidelines section.
+Added credits for contributors.
