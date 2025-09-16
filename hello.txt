@@ -12,3 +12,4 @@ Added credits for contributors.
 Improved formatting of the introduction.
 Added reminder about community rules.
 Updated resource links for reference.
+Final edit for clarity and completeness.
